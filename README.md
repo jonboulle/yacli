@@ -22,6 +22,7 @@ It's simple. It has no dependencies. It works.
 ## Examples?
 [`fleetctl`](https://github.com/coreos/fleet/tree/master/fleetctl) 
 [`locksmithctl`](https://github.com/coreos/locksmith/tree/master/locksmithctl)
+[`coreup`](https://github.com/polvi/coreup)
 
 ## Skub?
 [Pro skub.](http://pbfcomics.com/20/)
